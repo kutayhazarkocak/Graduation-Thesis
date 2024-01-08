@@ -305,7 +305,7 @@ st.markdown("---")
 
 #chatgpt uzantısı
 
-openai.api_key = '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'
+openai.api_key = 'insert_your_key_here'
 
 # Title and description
 st.sidebar.header("ChatGPT :robot_face:")
